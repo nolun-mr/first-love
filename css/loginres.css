@@ -1,0 +1,22 @@
+.banner-list dl{display:none;}
+.main{width:980px;margin:0 auto;}
+.main_box{margin-top:10px;width:950px;border:1px solid #2AD0FF;padding:10px;height:493px;}
+.login,.res{padding:0 10px;width:450px;height:453px;margin-top:40px;}
+.login{border-right:1px solid #999999;}
+.login p{text-align:center;height:24px;line-height:24px;margin-top:28px;}
+.loginbg{height:43px;width:439px;background: url(../img/res_title.png) no-repeat;}
+.login p input{border:1px solid #2AD0FF;width:202px;height:24px;line-height:24px;}
+.login .login_checked input{height:24px;line-height:24px;border:1px solid #2AD0FF;width:80px;}
+.change_index{height:30px;display:block;}
+.login_checked{height:24px;line-height:24px;margin-top:43px;margin-left:100px;}
+.login_push_btn {display;block;background:url(../img/btn-login.png) no-repeat;height:30px;width:90px;}
+.login_btn{height:55px;width:405px;text-align:center;margin-top:43px;}
+.login_word{height:30px;line-height: 30px;color:#666666;text-align: center;}
+.login_logo{height:30px;line-height: 30px;width:405px;margin-left:100px;}
+.resbg{height:43px;width:439px;background: url(../img/login_title.png) no-repeat;}
+.res p input{border:1px solid #2AD0FF;width:202px;height:24px;line-height:24px;}
+.res p{text-align:center;height:24px;line-height:24px;margin-top:43px;}
+.res_select{text-align: center;margin-top:43px;}
+.res_select a:hover{text-decoration: underline;}
+.res_push_btn {display;block;background:url(../img/btn-reg.png) no-repeat;height:30px;width:90px;}
+.res_btn{height:55px;width:405px;text-align:center;margin-top:43px;}

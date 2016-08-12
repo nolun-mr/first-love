@@ -1,0 +1,43 @@
+.banner-list dl{display:none;}
+/*mian*/
+/*mainL*/
+.main{width:980px; margin:0 auto;}
+.where{width:980px; margin:0 auto;}
+.current{ line-height:32px; color:#999; width:980px; height:32px;border-bottom:2px solid #78b5f4;}
+.current a{ color:#333;}
+.current a:hover{color:#fc7f0f;}
+.main_show_box{width:980px;height:414px;border-bottom:2px solid #e4e4e4;padding-top:15px;position:relative;}
+.mainL_show_box{ float:left; width:457px;position:absolute}
+.mainL_show_small{float:left; width:72px; height:380px;}
+.mainL_show_small li{width:72px; height:72px; margin-bottom:5px; cursor:pointer;display:block;}
+.mainL_show_small li img{width:70px; height:70px; border:1px solid #e4e4e4;}
+.mainL_show_big {width:350px;height:350px;overflow:hidden;position:relative;}
+.mainL_show_big img{width:350px;height:350px;position: absolute;margin-left:20px;}
+.showBig img{position: absolute;}
+.magnifier{position:absolute;display:none; width:170px; height:170px; cursor:move;border:1px solid #0069CE; background-color:#EAFFFF; opacity:0.3;}
+.showBig{z-index:1000;float:left;display:none;position:absolute; top:0;left:457px; width:350px; height:350px; border: 1px solid #C5C5C5; overflow:hidden;}
+.mainL_contact_L li {float:left;}
+.spell {width:200px;height:20px;margin:15px; 128px 0px 50px;}
+/*mainR*/
+.mainR_show_box{width:503px;height:440px;}
+.mainR_show_box .mainR_title{height:19px;font-size:14px;font-weight: bold;padding:10px;color:#000000;border-bottom:1px dotted #A8A7A7;}
+.mainR_show_box .mainR_detail{height:116px;width:483px;padding:12px 10px 2px 10px;}
+.mainR_show_box .mainR_detail p{height:28px;line-height:28px;}
+.mainR_show_box .mainR_detail p span{padding-left:10px;}
+.mainR_show_box .mainR_detail .mainR_red{color:#FF1A3A;}
+.mainR_show_box .mainR_detail_C{height:145px;width:483px;padding:12px 10px 0 10px;border-top:1px dotted #B8B8B8;}
+.mainR_show_box .mainR_detail_C p{height:28px;line-height:28px;}
+.mainR_show_box .mainR_detail_C p a{padding:10px;color:#005FBB;}
+.mainR_show_box .mainR_detail_C p a:hover{color:#FC7F0F;}
+.mainR_show_box .mainR_detail_C p .mainR_changeL{padding-left:30px;}
+.mainR_show_box .mainR_detail_C .mainR_logo{height:28px;line-height:28px;width:503px;}
+.mainR_show_box .mainR_detail_C .mainR_logo p{width:380px;height:28px;line-height:28px;}
+
+/*mainR_boxbuy*/
+.mainR_boxbuy img{cursor:pointer;}
+.mainR_boxbuy {width:480px;height:78px;padding-left:20px;border:1px solid #fdf3d4;background:#fffcf3;position:relative;}
+.mainR_boxbuy span{line-height:78px;vertical-align: middle;}
+.mainR_boxbuy img{vertical-align: middle;}
+#buy_btn{height:22px;width:32px;border:1px solid #000000;margin:0 3px;text-align:center;vertical-align: middle;}
+.mainR_boxbuy .add_car{cursor:pointer;vertical-align: middle;background: url(../img/detail_addcar.png) no-repeat;width:140px;height:40px;margin:0 10px;}
+.mainR_boxbuy .shoucang_car{cursor:pointer;vertical-align: middle;background:url(../img/detail_shoucang.png) no-repeat;width:140px;height:40px;margin:0 10px;}
